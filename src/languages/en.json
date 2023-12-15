@@ -1,0 +1,83 @@
+{
+  "CTASection": {
+    "header": "Java Full-Stack Developer",
+    "content": "I'm Nicholas, dedicated to developing scalable cloud microserivces and React web apps."
+  },
+  "aboutSection": {
+    "header": "About",
+    "content": [
+      {
+        "paragraph": {
+          "text": "I nurture a relentless curiosity and a commitment to lifelong learning, which drove me to transition from HR to Software Development."
+        }
+      },
+      {
+        "paragraph": {
+          "text": "Following my initial BBA degree, I pursued a second Bachelor's in Computer Engineering."
+        }
+      },
+      {
+        "paragraph": {
+          "text": "My primary goal centers on crafting scalable, available cloud-based microservices using Java and Spring Boot, complemented by building responsive front-end solutions leveraging JavaScript and React."
+        }
+      }
+    ]
+  },
+  "skillsSection": {
+    "header": "Skills",
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "summary": ""
+      },
+      {
+        "name": "Databases",
+        "summary": ""
+      },
+      {
+        "name": "Clouds and DevOps",
+        "summary": ""
+      },
+      {
+        "name": "Miscellaneous",
+        "summary": ""
+      }
+    ]
+  },
+  "projectsSection": {
+    "header": "Projects",
+    "btn1": "Code",
+    "projects": [
+      {
+        "name": "Personal Portfolio website",
+        "summary": "This is the website you're currently visiting. It was developed using React and Tailwind CSS."
+      },
+      {
+        "name": "Microservices Demo",
+        "summary": "An elementary showcase of microservices implemented with Spring Boot."
+      },
+      {
+        "name": "Spring MVC Login Demo",
+        "summary": "A basic demonstration of the login function can be illustrated using Spring Security and Spring MVC."
+      },
+      {
+        "name": "Mouse Tracking",
+        "summary": "This mouse tracking application utilizes Machine Learning including CNN, YOLO5, and PyTorch to accurately track and identify the position of single or multiple mice within images and videos"
+      }
+    ],
+    "techStackHeader": "Tech Stack"
+  },
+  "contactSection": {
+    "content": "",
+    "btn": "Email Me"
+  },
+  "footerSection": {
+    "content": ""
+  },
+  "notFound": {
+    "content": "I'm sorry, we were not able to find that page for you."
+  },
+  "underConstruction": {
+    "content": "Hang tight, we're working for you."
+  }
+}

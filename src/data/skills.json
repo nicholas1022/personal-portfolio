@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Languages and Frameworks",
+    "techStack": {
+      "firstRow": ["Java", "Javascript", "Typescript", "Python", "Csharp"],
+      "secondRow": ["Html5", "Css3", "Tailwindcss"],
+      "thirdRow": ["Spring", "React", "Jquery", "Spark", "Junit5", "Cucumber", "Selenium"]
+    }
+  },
+  {
+    "title": "Databases",
+    "techStack": {
+      "firstRow": ["Mysql", "Postgresql", "Microsoftsqlserver"],
+      "secondRow": ["Mongodb", "Redis", "Apachehadoop"],
+      "thirdRow": []
+    }
+  },
+  {
+    "title": "Clouds and DevOps",
+    "techStack": {
+      "firstRow": ["Amazonaws", "Microsoftazure"],
+      "secondRow": ["Azuredevops", "Jenkins"],
+      "thirdRow": ["Git", "Docker", "Kubernetes"]
+    }
+  },
+  {
+    "title": "Miscellaneous",
+    "techStack": {
+      "firstRow": ["Apachemaven", "Gradle"],
+      "secondRow": ["Restapi", "Swagger", "Apachekafka"],
+      "thirdRow": ["Linux", "Jirasoftware","Confluence"]
+    }
+  }
+]
