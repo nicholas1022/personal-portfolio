@@ -4,7 +4,7 @@ import { CgMoon, CgSun } from 'react-icons/cg';
 //Import theme context
 import { ThemeContext } from '../../containers/ThemeContext';
 //Import component
-import LanguageSelector from './LanguageSelector';
+// import LanguageSelector from './LanguageSelector';
 
 export default function Utils() {
   const { theme, userThemeChange } = useContext(ThemeContext);
@@ -41,7 +41,7 @@ export default function Utils() {
         )}
       </button>
 
-      <LanguageSelector />
+      {/* <LanguageSelector /> */}
     </div>
   );
 }
