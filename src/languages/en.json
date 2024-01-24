@@ -49,6 +49,10 @@
     "btn1": "Code",
     "projects": [
       {
+        "name": "Haircut Stylist Appointment Platform",
+        "summary": "A capstone project to showcase Node.Js and React skills."
+      },
+      {
         "name": "Personal Portfolio website",
         "summary": "This is the website you're currently visiting. It was developed using React and Tailwind CSS."
       },
