@@ -9,6 +9,7 @@ import {
   SiHtml5,
   SiTypescript,
   SiSpring,
+  SiNodedotjs,
   SiPython,
   SiCsharp,
   SiJunit5,
@@ -206,6 +207,11 @@ const TechStack = (props: Props) => {
         name: 'Spring',
         display: 'Spring',
         icon: SiSpring,
+      },
+      {
+        name: 'Node JS',
+        display: 'Node JS',
+        icon: SiNodedotjs,
       },
       {
         name: 'Junit5',

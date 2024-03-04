@@ -4,7 +4,7 @@
     "techStack": {
       "firstRow": ["Java", "Javascript", "Typescript", "Python", "Csharp"],
       "secondRow": ["Html5", "Css3", "Tailwindcss"],
-      "thirdRow": ["Spring", "React", "Jquery", "Spark", "Junit5", "Cucumber", "Selenium"]
+      "thirdRow": ["Spring", "Node JS", "React", "Jquery", "Spark", "Junit5", "Cucumber", "Selenium"]
     }
   },
   {
