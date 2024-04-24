@@ -17,7 +17,7 @@
     "@types/react-lazyload": "^3.1.0",
     "@types/react-router-dom": "^5.1.7",
     "framer-motion": "^2.9.5",
-    "postcss": "^7.0.39",
+    "postcss": "^8.0.0",
     "react": "^16.0.0",
     "react-device-detect": "^1.15.0",
     "react-dom": "^16.0.0",
@@ -33,7 +33,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "craco --openssl-legacy-provider start",
     "build": "NODE_OPTIONS='--openssl-legacy-provider' craco build",
     "dev": "tsc -w",
     "test": "craco test",

@@ -49,6 +49,10 @@
     "btn1": "Code",
     "projects": [
       {
+        "name": "Inventory and Order Management System",
+        "summary": "Inventory and ordering system back by React and Spring Boot."
+      },
+      {
         "name": "Haircut Stylist Appointment Platform",
         "summary": "A capstone project to showcase Node.Js and React skills."
       },
